@@ -1,0 +1,15 @@
+			                                        LeaveCaveRoom				
+	                FindCoinRoom	EmptyCavePath	GaintSpiderRoom																						
+		                            EmptyCavePath																							
+		                            EmptyCavePath																							
+FindRangaRoom	    EmptyCavePath	StartingRoom	EmptyCavePath	FindRangaRoom																					
+		                            LootRoom																							
+		                            EmptyCavePath																							
+		                            EnemyRoom																							
+																									
+																									
+																									
+																									
+																									
+																									
+													
